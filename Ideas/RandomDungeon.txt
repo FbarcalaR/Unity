@@ -1,0 +1,10 @@
+Generar mazmorras de forma aleatoria.
+
+La idea es generar una mazmorra de forma aleatoria, de forma que haya varios caminos desde el punto de partida, siempre lineales.
+
+
+Los scripts reciben prefabs del escenario(s).
+Los scripts tambien reciben opcionalmente prfabs de objetos que pueden aparecer con una posicion o posiciones donde aparecer, estos prefabs igual deben incluir un script para poder tener en cuenta esta cosas.
+
+
+

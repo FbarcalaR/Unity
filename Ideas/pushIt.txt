@@ -1,0 +1,2 @@
+dos jugadores en un tablero, hay que empujar una bola al campo del contrario dandole lo mas rapido posible a una tecla.
+El que mas rápido dé podrá llevar la bola al campo contrario.
