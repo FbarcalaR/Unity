@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - TopDoor
+  - RightDoor
+  - LeftDoor
+  - BotDoor
   layers:
   - Default
   - TransparentFX
